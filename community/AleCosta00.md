@@ -7,7 +7,7 @@ Tenho 27 anos, sou estudante de Análise e Desenvolvimento de Sistemas 💻
 ## Conecte-se Comigo 📡
 
 [![Instagram](https://img.shields.io/badge/-Instagram-FFF?style=for-the-badge&logo=instagram)](https://www.instagram.com/alecosta_andrade/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFF?style=for-the-badge&logo=linkedin&logoColor=blue)]([https://www.linkedin.com/in/SEUUSERNAME/](https://www.linkedin.com/in/alexandre-costa-6b7018158/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFF?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/alexandre-costa-6b7018158/)
 [![Gmail](https://img.shields.io/badge/Gmail-FFF?style=for-the-badge&logo=gmail&logoColor=red)](mailto:alecostajj@gmail.com)
 
 ## Habilidades 🏆
